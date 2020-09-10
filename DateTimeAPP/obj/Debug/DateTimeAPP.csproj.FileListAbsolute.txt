@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\DateTimeAPP\DateTimeAPP\bin\Debug\DateTimeAPP.exe.config
+C:\Users\User\source\repos\DateTimeAPP\DateTimeAPP\bin\Debug\DateTimeAPP.exe
+C:\Users\User\source\repos\DateTimeAPP\DateTimeAPP\bin\Debug\DateTimeAPP.pdb
+C:\Users\User\source\repos\DateTimeAPP\DateTimeAPP\obj\Debug\DateTimeAPP.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DateTimeAPP\DateTimeAPP\obj\Debug\DateTimeAPP.Form1.resources
+C:\Users\User\source\repos\DateTimeAPP\DateTimeAPP\obj\Debug\DateTimeAPP.Properties.Resources.resources
+C:\Users\User\source\repos\DateTimeAPP\DateTimeAPP\obj\Debug\DateTimeAPP.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DateTimeAPP\DateTimeAPP\obj\Debug\DateTimeAPP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DateTimeAPP\DateTimeAPP\obj\Debug\DateTimeAPP.exe
+C:\Users\User\source\repos\DateTimeAPP\DateTimeAPP\obj\Debug\DateTimeAPP.pdb
